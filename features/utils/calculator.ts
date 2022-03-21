@@ -50,9 +50,9 @@ Twd: ${twd.toFixed(2)} MPa,
 Twu: ${twu.toFixed(2)} MPa,
 Tc: ${tc.toFixed(2)} MPa,
 Td: ${td.toFixed(2)} MPa,
-Asw,calc: ${aswcalc.toFixed(2)} cm²,
-Asw,min: ${aswmin.toFixed(2)} cm²,
-Asw,nec: ${asw.toFixed(2)} cm²,
+Asw,calc: ${aswcalc.toFixed(2)} cm²/m,
+Asw,min: ${aswmin.toFixed(2)} cm²/m,
+Asw,nec: ${asw.toFixed(2)} cm²/m,
 Scalc: ${scalc} cm.
 Smax: ${smax} cm.
 S: ${s} cm.`
